@@ -8,7 +8,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/rishiosaur/ll)
 
 A minimal link shortener powered by Next.js and Vercel.
-
+Here is Raleigh's vercel deploy!  
 ## Structure of a route:
 
 ```

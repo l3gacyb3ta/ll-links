@@ -1,7 +1,6 @@
 # LL
 
-A minimal link shortener powered by Next.js and Vercel.
-Here is Raleigh's vercel deploy!  
+A minimal link shortener powered by Next.js and Vercel.   
 ## Structure of a route:
 
 ```
